@@ -1,4 +1,4 @@
-FROM alpine:3.13
+FROM alpine:3.13.12
 
 ARG NGINX_VERSION=1.18.0-r15
 
